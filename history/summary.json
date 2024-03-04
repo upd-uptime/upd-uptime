@@ -5,18 +5,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/uvle.upd.edu.ph.ico",
     "slug": "uv-le",
     "status": "down",
-    "uptime": "1.15%",
-    "uptimeDay": "1.15%",
-    "uptimeWeek": "1.15%",
-    "uptimeMonth": "1.15%",
-    "uptimeYear": "1.15%",
+    "uptime": "0.89%",
+    "uptimeDay": "0.89%",
+    "uptimeWeek": "0.89%",
+    "uptimeMonth": "0.89%",
+    "uptimeYear": "0.89%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2024-03-04": 43
+      "2024-03-04": 55
     }
   },
   {
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1867,
-    "timeDay": 1867,
-    "timeWeek": 1867,
-    "timeMonth": 1867,
-    "timeYear": 1867,
+    "time": 1969,
+    "timeDay": 1969,
+    "timeWeek": 1969,
+    "timeMonth": 1969,
+    "timeYear": 1969,
     "dailyMinutesDown": {}
   }
 ]
