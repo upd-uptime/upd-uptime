@@ -16,8 +16,8 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upd-uptime/upd-uptime/master/assets/upd-uptime-icon.svg
   faviconSvg: https://raw.githubusercontent.com/upd-uptime/upd-uptime/master/assets/upd-uptime-icon.svg
   name: UPD Uptime
-  introTitle: "**UPD Uptime** displays the uptime of various UP Diliman-related services"
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/heygsiri/upd-uptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # introTitle: "**UPD Uptime** displays the uptime of various UP Diliman-related services"
+  # introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/heygsiri/upd-uptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
     - title: Status
       href: /
