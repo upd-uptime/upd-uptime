@@ -1,5 +1,25 @@
 [
   {
+    "name": "DILNET",
+    "url": "https://dilnet.upd.edu.ph",
+    "icon": "https://icons.duckduckgo.com/ip3/dilnet.upd.edu.ph.ico",
+    "slug": "dilnet",
+    "status": "down",
+    "uptime": "22.64%",
+    "uptimeDay": "22.64%",
+    "uptimeWeek": "22.64%",
+    "uptimeMonth": "22.64%",
+    "uptimeYear": "22.64%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-04-23": 0
+    }
+  },
+  {
     "name": "UVLe",
     "url": "https://uvle.upd.edu.ph",
     "icon": "https://icons.duckduckgo.com/ip3/uvle.upd.edu.ph.ico",
@@ -10,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.32%",
-    "time": 6251,
-    "timeDay": 5174,
-    "timeWeek": 5953,
-    "timeMonth": 6284,
-    "timeYear": 6251,
+    "time": 6241,
+    "timeDay": 5446,
+    "timeWeek": 5923,
+    "timeMonth": 6267,
+    "timeYear": 6241,
     "dailyMinutesDown": {
       "2024-04-15": 24,
       "2024-03-04": 459
@@ -31,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 2215,
-    "timeDay": 2416,
-    "timeWeek": 2385,
-    "timeMonth": 2255,
-    "timeYear": 2215,
+    "time": 2213,
+    "timeDay": 2237,
+    "timeWeek": 2344,
+    "timeMonth": 2249,
+    "timeYear": 2213,
     "dailyMinutesDown": {}
   }
 ]
