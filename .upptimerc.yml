@@ -4,7 +4,9 @@ repo: upd-uptime # The name of this repository
 
 sites:
   - name: DILNET
-    url: https://dilnet.upd.edu.ph
+    check: tcp-ping
+    url: dilnet.upd.edu.ph
+    port: 443
   - name: UVLe
     url: https://uvle.upd.edu.ph
   - name: CRS
