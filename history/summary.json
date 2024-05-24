@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dilnet",
     "status": "up",
-    "uptime": "73.82%",
+    "uptime": "74.13%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "76.44%",
-    "uptimeYear": "73.82%",
+    "uptimeMonth": "77.65%",
+    "uptimeYear": "74.13%",
     "time": 228,
     "timeDay": 228,
     "timeWeek": 233,
@@ -33,11 +33,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/uvle.upd.edu.ph.ico",
     "slug": "uv-le",
     "status": "up",
-    "uptime": "97.91%",
+    "uptime": "97.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.53%",
     "uptimeMonth": "95.58%",
-    "uptimeYear": "97.91%",
+    "uptimeYear": "97.92%",
     "time": 6037,
     "timeDay": 4234,
     "timeWeek": 4577,
@@ -61,9 +61,9 @@
     "url": "https://crs.upd.edu.ph",
     "icon": "https://icons.duckduckgo.com/ip3/crs.upd.edu.ph.ico",
     "slug": "crs",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -72,6 +72,8 @@
     "timeWeek": 2290,
     "timeMonth": 2737,
     "timeYear": 2394,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-05-24": 0
+    }
   }
 ]
