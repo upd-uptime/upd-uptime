@@ -5,11 +5,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "dilnet",
     "status": "up",
-    "uptime": "91.81%",
+    "uptime": "91.88%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "91.81%",
+    "uptimeYear": "91.88%",
     "time": 227,
     "timeDay": 230,
     "timeWeek": 224,
@@ -41,7 +41,7 @@
     "time": 5735,
     "timeDay": 6327,
     "timeWeek": 5035,
-    "timeMonth": 5667,
+    "timeMonth": 5661,
     "timeYear": 5735,
     "dailyMinutesDown": {
       "2024-07-23": 100,
@@ -64,9 +64,9 @@
     "url": "https://crs.upd.edu.ph",
     "icon": "https://icons.duckduckgo.com/ip3/crs.upd.edu.ph.ico",
     "slug": "crs",
-    "status": "up",
+    "status": "down",
     "uptime": "99.93%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "99.93%",
@@ -76,6 +76,7 @@
     "timeMonth": 2838,
     "timeYear": 2540,
     "dailyMinutesDown": {
+      "2024-07-31": 0,
       "2024-07-23": 25,
       "2024-05-24": 134
     }
