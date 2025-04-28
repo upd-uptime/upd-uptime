@@ -11,6 +11,9 @@ sites:
     url: https://uvle.upd.edu.ph
   - name: CRS
     url: https://crs.upd.edu.ph
+  - name: Down Test
+    check: tcp-ping
+    url: $DOWN_TEST
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
