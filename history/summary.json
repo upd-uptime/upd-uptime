@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.15%",
     "time": 225,
-    "timeDay": 189,
-    "timeWeek": 212,
+    "timeDay": 206,
+    "timeWeek": 215,
     "timeMonth": 227,
     "timeYear": 225,
     "dailyMinutesDown": {
@@ -33,11 +33,11 @@
     "uptimeWeek": "88.86%",
     "uptimeMonth": "88.05%",
     "uptimeYear": "97.86%",
-    "time": 5536,
+    "time": 5548,
     "timeDay": 6292,
     "timeWeek": 5458,
     "timeMonth": 5432,
-    "timeYear": 5424,
+    "timeYear": 5439,
     "dailyMinutesDown": {
       "2025-04-21": 1123,
       "2025-04-19": 404,
@@ -80,11 +80,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.88%",
     "uptimeYear": "99.82%",
-    "time": 2566,
-    "timeDay": 3134,
-    "timeWeek": 3459,
-    "timeMonth": 2723,
-    "timeYear": 2636,
+    "time": 2572,
+    "timeDay": 3740,
+    "timeWeek": 3608,
+    "timeMonth": 2781,
+    "timeYear": 2642,
     "dailyMinutesDown": {
       "2025-04-18": 74,
       "2025-04-17": 134,
@@ -94,26 +94,6 @@
       "2024-07-31": 136,
       "2024-07-23": 25,
       "2024-05-24": 134
-    }
-  },
-  {
-    "name": "Down Test",
-    "url": "$DOWN_TEST",
-    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
-    "slug": "down-test",
-    "status": "down",
-    "uptime": "1.42%",
-    "uptimeDay": "1.42%",
-    "uptimeWeek": "1.42%",
-    "uptimeMonth": "1.42%",
-    "uptimeYear": "1.42%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
-    "dailyMinutesDown": {
-      "2025-04-28": 0
     }
   }
 ]
