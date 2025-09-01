@@ -16,6 +16,11 @@ sites:
       - 200
   - name: CRS
     url: https://crs.upd.edu.ph
+    type: globalping
+    location: manila
+    maxResponseTime: 5000
+    expectedStatusCodes:
+      - 200
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
