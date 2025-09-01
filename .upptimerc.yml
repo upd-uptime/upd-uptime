@@ -9,6 +9,8 @@ sites:
     port: 443
   - name: UVLe
     url: https://uvle.upd.edu.ph
+    type: globalping
+    location: singapore, hong kong
     maxResponseTime: 5000
     expectedStatusCodes:
       - 200
