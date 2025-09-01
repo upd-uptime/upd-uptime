@@ -9,7 +9,7 @@ sites:
     port: 443
   - name: UVLe
     url: https://uvle.upd.edu.ph
-    maxResponseTime: 2500
+    maxResponseTime: 5000
     expectedStatusCodes:
       - 200
   - name: CRS
