@@ -10,8 +10,8 @@ sites:
   - name: UVLe
     url: https://uvle.upd.edu.ph
     type: globalping
-    location: singapore, hong kong
-    maxResponseTime: 5000
+    location: manila
+    maxResponseTime: 6000
     expectedStatusCodes:
       - 200
   - name: CRS
